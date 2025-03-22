@@ -1,2 +1,2 @@
-# medibuddy
+# Medibuddy
 Medical Report Analyzer
